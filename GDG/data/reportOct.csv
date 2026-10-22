@@ -1,0 +1,44 @@
+feedback_id,timestamp,category,location,feedback_text,severity
+1,2026-10-19 08:05:00,Wi-Fi / Internet,Library - Ground Floor,The campus Wi-Fi is very slow this morning and pages are not loading.,medium
+2,2026-10-19 08:12:00,Wi-Fi / Internet,Library - Ground Floor,Internet keeps disconnecting near the library entrance.,medium
+3,2026-10-19 08:20:00,Classroom,Block A - Room 101,The projector is not turning on before our lecture.,low
+4,2026-10-19 09:00:00,Cleanliness,Canteen,Tables in the canteen were not cleaned after breakfast.,low
+5,2026-10-19 09:10:00,Wi-Fi / Internet,Block A - Room 203,The network is unusually slow in our classroom.,medium
+6,2026-10-19 09:18:00,Wi-Fi / Internet,Block A - Room 203,We cannot access the learning portal because the connection keeps timing out.,high
+7,2026-10-19 09:25:00,Wi-Fi / Internet,Block A - Room 204,Online notes are taking forever to download on campus internet.,medium
+8,2026-10-19 10:05:00,Transport,Main Gate,The college bus arrived about 20 minutes late today.,low
+9,2026-10-19 10:30:00,Water,Block B - First Floor,The drinking water dispenser is empty.,medium
+10,2026-10-19 11:15:00,Wi-Fi / Internet,Block A - Room 203,The Wi-Fi is still dropping during the online quiz.,high
+11,2026-10-19 11:22:00,Wi-Fi / Internet,Block A - Room 204,Several students cannot open the learning portal in this block.,high
+12,2026-10-19 12:00:00,Cleanliness,Canteen,The canteen floor needs cleaning near the tables.,low
+13,2026-10-19 13:05:00,Classroom,Block C - Room 302,The classroom fan is making a loud noise.,low
+14,2026-10-19 13:20:00,Wi-Fi / Internet,Block A - Room 203,Campus network latency is high and the student portal will not load.,high
+15,2026-10-19 13:35:00,Wi-Fi / Internet,Block A - Room 204,The connection is unstable when we try to submit assignments.,high
+16,2026-10-19 14:10:00,Library,Library - Second Floor,There are not enough study seats in the library this afternoon.,low
+17,2026-10-20 08:00:00,Wi-Fi / Internet,Block A - Room 203,The internet is slow again in Block A and the portal is hard to access.,medium
+18,2026-10-20 08:10:00,Wi-Fi / Internet,Block A - Room 204,Wi-Fi drops repeatedly around the start of morning classes.,medium
+19,2026-10-20 08:25:00,Wi-Fi / Internet,Block A - Room 203,The online attendance system keeps failing to connect.,high
+20,2026-10-20 09:00:00,Transport,Bus Stop 2,The bus stop sign is difficult to see.,low
+21,2026-10-20 09:40:00,Wi-Fi / Internet,Block A - Room 204,The student portal is timing out for many people in this area.,high
+22,2026-10-20 10:15:00,Classroom,Block B - Room 205,The classroom microphone volume is too low.,low
+23,2026-10-20 11:05:00,Wi-Fi / Internet,Block A - Room 203,Downloads are failing and the network seems congested.,high
+24,2026-10-20 12:20:00,Wi-Fi / Internet,Block A - Room 204,Our assignment upload failed because the campus connection froze.,high
+25,2026-10-20 13:00:00,Cleanliness,Canteen,A bin near the canteen entrance is full.,low
+26,2026-10-20 14:05:00,Wi-Fi / Internet,Block A - Room 203,The Wi-Fi is much slower than usual after lunch.,medium
+27,2026-10-21 08:05:00,Wi-Fi / Internet,Block A - Room 203,The student portal is unavailable again during the first lecture.,high
+28,2026-10-21 08:15:00,Wi-Fi / Internet,Block A - Room 204,Network connection failures are affecting multiple classrooms in Block A.,high
+29,2026-10-21 08:35:00,Wi-Fi / Internet,Block A - Room 203,The internet is so slow that the online quiz will not start.,high
+30,2026-10-21 09:05:00,Wi-Fi / Internet,Block A - Room 204,We cannot submit work because the portal connection keeps dropping.,high
+31,2026-10-21 10:00:00,Water,Block B - First Floor,The water dispenser is still empty.,medium
+32,2026-10-21 11:10:00,Wi-Fi / Internet,Block A - Room 203,Campus internet congestion is making the student portal unusable.,high
+33,2026-10-21 12:00:00,Wi-Fi / Internet,Block A - Room 204,Online resources are failing to load across the block.,high
+34,2026-10-21 13:30:00,Classroom,Block A - Room 101,The projector screen flickers occasionally.,low
+35,2026-10-21 14:15:00,Wi-Fi / Internet,Block A - Room 203,The connection is unstable again and assignment uploads are failing.,high
+36,2026-10-22 08:00:00,Wi-Fi / Internet,Block A - Room 203,The learning portal is timing out at the start of classes.,high
+37,2026-10-22 08:12:00,Wi-Fi / Internet,Block A - Room 204,The network is unusually busy and the student portal will not open.,high
+38,2026-10-22 08:25:00,Wi-Fi / Internet,Block A - Room 203,Several online services are unreachable on campus Wi-Fi.,high
+39,2026-10-22 09:10:00,Wi-Fi / Internet,Block A - Room 204,The internet keeps freezing while students attempt to upload assignments.,high
+40,2026-10-22 10:30:00,Library,Library - Ground Floor,A study-room light is not working.,low
+41,2026-10-22 16:18:16.830649,Uncategorized,Unknown,wifi is not working,medium
+42,2026-10-22 16:18:20.435685,Uncategorized,Unknown,wifi is not working,medium
+43,2026-10-22 16:18:20.792499,Uncategorized,Unknown,wifi is not working,medium
